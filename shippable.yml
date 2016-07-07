@@ -26,8 +26,7 @@ integrations:
     - integrationName: deepika-slack
       type: slack
       recipients:
-        - "#public-chnl"
-        - pvt-channel
+        - "#deepika-test"
       on_start: always  
       on_success: always
       on_failure: always
